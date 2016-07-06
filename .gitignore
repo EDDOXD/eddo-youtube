@@ -1,0 +1,8 @@
+# Agregaré tipos de archivos ejecutables que vayan saliendo (por ahora solo los ejecutables de C).
+*.out
+
+# Carpetas de "grabacion".
+REC
+
+# Carpeta de experimentos personales.
+experimental
